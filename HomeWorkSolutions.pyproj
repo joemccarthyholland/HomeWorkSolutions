@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b3b0b6a9-9f7b-46b9-a840-3e8a7922fca0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>HomeWorkSolutions.py</StartupFile>
+    <StartupFile>Week4Lists.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="HomeWorkSolutions.py" />
+    <Compile Include="MoleGame.py" />
     <Compile Include="Week5MathsAndStrings.py" />
     <Compile Include="Week4Lists.py" />
     <Compile Include="Week3Iteration.py" />
